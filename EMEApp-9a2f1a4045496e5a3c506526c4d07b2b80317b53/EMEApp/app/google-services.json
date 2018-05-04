@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "896430922268",
+    "firebase_url": "https://emeapplication-4ee0a.firebaseio.com",
+    "project_id": "emeapplication-4ee0a",
+    "storage_bucket": "emeapplication-4ee0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896430922268:android:fbbab95994bafc65",
+        "android_client_info": {
+          "package_name": "nuttygeek.com.eme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896430922268-mvk4ooih9m01f5f6prdlpp2gekcbc5ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8KXmCQbfjOhbYl2q-WNmZqhgNkEjx4hA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
